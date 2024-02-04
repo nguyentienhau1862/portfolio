@@ -1,0 +1,12 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0px;
+	background-color: #181818;
+}
+
+body * {
+	font-family: cursive;
+}
